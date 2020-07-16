@@ -1,4 +1,4 @@
-package com.homework_9.rethrowing_exceptions;
+package com.domaranskiy.rethrowing_exceptions;
 
 public class RethrowingExceptExampl {
     private static int someMethod2(int firstNumber, int secondNumber) throws ArithmeticException {

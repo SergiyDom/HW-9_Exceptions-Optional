@@ -1,9 +1,9 @@
-package com.homework_9.application_with_integer.model;
+package com.domaranskiy.application_with_integer.model;
 
-import com.homework_9.application_with_integer.io.Printer;
-import com.homework_9.application_with_integer.io.ReaderConsole;
-import com.homework_9.application_with_integer.service.DivisionByZeroDoubleExeption;
-import com.homework_9.application_with_integer.service.SafeDivision;
+import com.domaranskiy.application_with_integer.io.Printer;
+import com.domaranskiy.application_with_integer.io.ReaderConsole;
+import com.domaranskiy.application_with_integer.service.DivisionByZeroDoubleExeption;
+import com.domaranskiy.application_with_integer.service.SafeDivision;
 
 import java.io.IOException;
 

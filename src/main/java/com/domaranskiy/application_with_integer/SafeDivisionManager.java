@@ -1,9 +1,9 @@
-package com.homework_9.application_with_integer;
+package com.domaranskiy.application_with_integer;
 
-import com.homework_9.application_with_integer.io.Printer;
-import com.homework_9.application_with_integer.io.ReaderConsole;
-import com.homework_9.application_with_integer.model.InputNambers;
-import com.homework_9.application_with_integer.service.SafeDivision;
+import com.domaranskiy.application_with_integer.io.Printer;
+import com.domaranskiy.application_with_integer.io.ReaderConsole;
+import com.domaranskiy.application_with_integer.model.InputNambers;
+import com.domaranskiy.application_with_integer.service.SafeDivision;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

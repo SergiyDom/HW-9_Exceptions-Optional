@@ -1,4 +1,4 @@
-package com.homework_9.application_with_integer.service;
+package com.domaranskiy.application_with_integer.service;
 
 public class SafeDivision {
     public double safeDivision(int A, int B) throws DivisionByZeroDoubleExeption {
